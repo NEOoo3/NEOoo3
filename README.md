@@ -14,19 +14,19 @@
 <div align="left">
 
 ### 🤖 Current Focus
-AI Evaluation & Training Specialist at **Scaler AI Labs**, architecting SFT "Golden Responses" for LLM instruction following and establishing technical reasoning benchmarks.[cite: 1]
+AI Evaluation & Training Specialist at **Scaler AI Labs**, architecting SFT "Golden Responses" for LLM instruction following and establishing technical reasoning benchmarks.
 
 ### 🔬 Expertise
-LLM Alignment (RLHF/SFT), Explainable AI (SHAP), GeoAI, Anomaly Detection, Distributed Systems, and Cloud-Native Architecture.[cite: 1]
+LLM Alignment (RLHF/SFT), Explainable AI (SHAP), GeoAI, Anomaly Detection, Distributed Systems, and Cloud-Native Architecture.
 
 ### 📊 Recent Achievements
-* **Hyper-Local Air Quality Forecasting:** Validated R² = 0.9579 on 420K+ time-series records.[cite: 1]
-* **Distributed HLS Video Streaming:** Real-time adaptive bitrate transcoding infrastructure.[cite: 1]
-* **Published Research:** Lead author on "Novel Users in Specific Domains" (International OS Research Journals, 2025).[cite: 1]
-* **Advanced RLHF optimization** for frontier LLMs via adversarial red teaming.[cite: 1]
+* **Hyper-Local Air Quality Forecasting:** Validated R² = 0.9579 on 420K+ time-series records.
+* **Distributed HLS Video Streaming:** Real-time adaptive bitrate transcoding infrastructure.
+* **Published Research:** Lead author on "Novel Users in Specific Domains" (International OS Research Journals, 2025).
+* **Advanced RLHF optimization** for frontier LLMs via adversarial red teaming.
 
 ### 💭 Philosophy  
-Code is a medium for thought—every line should communicate intent as clearly as it executes logic.[cite: 1]
+Code is a medium for thought—every line should communicate intent as clearly as it executes logic.
 
 </div>
 
@@ -43,11 +43,11 @@ Code is a medium for thought—every line should communicate intent as clearly a
 
 > **Hyper-Local Air Quality Forecasting System**  
 > *Python • XGBoost • GeoAI • SHAP*  
-> Achieved R² = 0.9579 on 420K+ time-series records. Integrated GeoAI modules for location-based intelligence and SHAP for model transparency.[cite: 1]
+> Achieved R² = 0.9579 on 420K+ time-series records. Integrated GeoAI modules for location-based intelligence and SHAP for model transparency.
 
 > **Distributed HLS Video Streaming Infrastructure**  
 > *FastAPI • FFmpeg • HLS Protocol*  
-> Real-time adaptive bitrate streaming service with asynchronous transcoding for high-density video data tracking.[cite: 1]
+> Real-time adaptive bitrate streaming service with asynchronous transcoding for high-density video data tracking.
 
 </div>
 
