@@ -1,5 +1,4 @@
-# 🎨 Glitch Header GIF Generation Guide
-## For Your High-End Cyber-Minimalist GitHub README
+
 
 ---
 
@@ -15,9 +14,7 @@ These are **animated GIFs** (not CSS, since GitHub filters out animations). You'
 
 ---
 
-## 🛠️ Step 1: Generate Glitch GIFs (Choose ONE Method)
 
-### **Method 1: Free Online Generator (Easiest)**
 
 **Best Tool:** [Photomosh](https://photomosh.com/) or [Ezgif Glitch](https://ezgif.com/glitch)
 
