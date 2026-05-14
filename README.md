@@ -54,9 +54,10 @@ Code is a medium for thought—every line should communicate intent as clearly a
 <br/>
 
 ### 📊 Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=NEOoo3&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E0E0&icon_color=00D9FF" height="150px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEOoo3&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E0E0E0" height="150px" />
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NEOoo3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEOoo3&layout=compact&theme=radical&hide_border=true" height="150" />
+</p>
 <br/><br/>
 
 <img width="35%" src="https://img.shields.io/badge/Let's%20Build%20Something%20Intelligent-00D9FF?style=for-the-badge&labelColor=0D1117" />
