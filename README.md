@@ -1,17 +1,23 @@
 <div align="center">
 
-<!-- 01. PRIMARY HEADER -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Anugrah+Ajith;AI%2FML+Engineer;Building+Intelligent+Systems" alt="Typing animation" />
+<table border="0" width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" align="left" valign="top">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Anugrah+Ajith;AI%2FML+Engineer;Building+Intelligent+Systems" alt="Typing animation" />
+      <p><samp>Architecting high-performance ML systems with a focus on LLM alignment, distributed systems, and explainable AI.<br/>Based in <b>Bengaluru, India</b> • Remote-First Engineer</samp></p>
+      <a href="https://linkedin.com/in/anugrah-ajith-cs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/NEOoo3"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="mailto:anugrahajith777@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    </td>
+    <td width="45%" align="right" valign="middle">
+      <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" height="190" style="border-radius: 8px;" />
+    </td>
+  </tr>
+</table>
 
-<p><samp>Architecting high-performance ML systems with a focus on LLM alignment, distributed systems, and explainable AI.<br/>Based in <b>Bengaluru, India</b> • Remote-First Engineer</samp></p>
+</div>
 
-<a href="https://linkedin.com/in/anugrah-ajith-cs"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/NEOoo3"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;<a href="mailto:anugrahajith777@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br/><br/>
+<br/>
 
 ---
-
-<div align="left">
 
 ### 🤖 Current Focus
 AI Evaluation & Training Specialist at **Scaler AI Labs**, architecting SFT "Golden Responses" for LLM instruction following and establishing technical reasoning benchmarks.
@@ -20,7 +26,7 @@ AI Evaluation & Training Specialist at **Scaler AI Labs**, architecting SFT "Gol
 LLM Alignment (RLHF/SFT), Explainable AI (SHAP), GeoAI, Anomaly Detection, Distributed Systems, and Cloud-Native Architecture.
 
 ### 📊 Recent Achievements
-* **Hyper-Local Air Quality Forecasting:** Validated R² = 0.9579 on 420K+ time-series records.
+* **Hyper-Local Air Quality Forecasting:** Validated $R^2 = 0.9579$ on 420K+ time-series records.
 * **Distributed HLS Video Streaming:** Real-time adaptive bitrate transcoding infrastructure.
 * **Published Research:** Lead author on "Novel Users in Specific Domains" (International OS Research Journals, 2025).
 * **Advanced RLHF optimization** for frontier LLMs via adversarial red teaming.
@@ -28,36 +34,17 @@ LLM Alignment (RLHF/SFT), Explainable AI (SHAP), GeoAI, Anomaly Detection, Distr
 ### 💭 Philosophy  
 Code is a medium for thought—every line should communicate intent as clearly as it executes logic.
 
-</div>
-
-<br/>
+---
 
 ### 🛠 Technical Expertise
-<img src="https://skillicons.dev/icons?i=js,ts,react,figma,python,nodejs,fastapi,scala,tensorflow,pytorch,aws,docker,kubernetes,mysql,mongodb,linux&theme=dark" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,figma,python,nodejs,fastapi,scala,tensorflow,pytorch,aws,docker,kubernetes,mysql,mongodb,linux&theme=dark" />
+</p>
 
-<br/><br/>
+<br/>
 
 ### 🚀 Featured Projects
 
-<div align="left">
+> **Hyper-Local Air Quality Forecasting System** > *Python • XGBoost • GeoAI • SHAP* > Achieved $R^2 = 0.9579$ on 420K+ time-series records. Integrated GeoAI modules for location-based intelligence and SHAP for model transparency.
 
-> **Hyper-Local Air Quality Forecasting System**  
-> *Python • XGBoost • GeoAI • SHAP*  
-> Achieved R² = 0.9579 on 420K+ time-series records. Integrated GeoAI modules for location-based intelligence and SHAP for model transparency.
-
-> **Distributed HLS Video Streaming Infrastructure**  
-> *FastAPI • FFmpeg • HLS Protocol*  
-> Real-time adaptive bitrate streaming service with asynchronous transcoding for high-density video data tracking.
-
-</div>
-
-<br/>
-
-
-  
-  <p align="center">
-  <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" height="150" />
-</p>
-<br/><br/>
-
-</div>
+> **Distributed HLS Video Streaming Infrastructure** > *FastAPI • FFmpeg • HLS Protocol* > Real-time adaptive bitrate streaming service with asynchronous transcoding for high-density video data tracking.
