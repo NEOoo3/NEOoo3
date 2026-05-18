@@ -24,9 +24,10 @@ LLM Alignment (RLHF/SFT), Explainable AI (SHAP), GeoAI, Anomaly Detection, Distr
 * **Published Research:** Lead author on "Novel Users in Specific Domains" (International OS Research Journals, 2025).
 * **Advanced RLHF optimization** for frontier LLMs via adversarial red teaming.
 
+
 <br/>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&color=A9B1D6&center=true&vCenter=true&width=650&lines=%2F%2F+Philosophy%3A+Code+is+a+medium+for+thought+—+every+line+should+communicate+intent." alt="Philosophy Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=6000&pause=1500&color=7AA2F7&center=true&vCenter=true&width=850&lines=%2F%2F+Philosophy%3A+Code+is+a+medium+for+thought+—+every+line+should+communicate+intent." alt="Philosophy Quote" />
 </p>
 <br/>
 
