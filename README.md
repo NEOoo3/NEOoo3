@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=%E2%96%AE+ANUGRAH+AJITH;%3E+AI+%2F+ML+ENGINEER;%3E+SYSTEMS+ARCHITECT" alt="Typing animation" />
