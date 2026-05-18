@@ -53,9 +53,10 @@ Code is a medium for thought—every line should communicate intent as clearly a
 
 <br/>
 
-### 📊 Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NEOoo3&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
+  
+  <img src="[https://github-readme-stats.vercel.app/api?username=NEOoo3](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMndmNndzYWwwaDM1bmU3eW43bHlrajRnMG02MzN1Z2sya2x1bmx6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif)&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NEOoo3&layout=compact&theme=radical&hide_border=true" height="150" />
 </p>
 <br/><br/>
