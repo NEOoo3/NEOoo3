@@ -1,6 +1,5 @@
 <div align="center">
 
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
   <tr>
     <td width="55%" align="left" valign="top">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00D9FF&center=false&vCenter=true&width=500&lines=Hi%2C+I'm+Anugrah+Ajith;AI%2FML+Engineer;Building+Intelligent+Systems" alt="Typing animation" />
@@ -11,7 +10,7 @@
       <img src="https://media.giphy.com/media/S9d8XB557e8phGLBVS/giphy.gif" height="190" style="border-radius: 8px;" />
     </td>
   </tr>
-</table>
+
 
 </div>
 
